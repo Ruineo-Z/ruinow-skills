@@ -1,0 +1,3 @@
+interface:
+  display_name: "需求驱动的 Skill 创建"
+  short_description: "从真实场景找准需求，并设计、创建与验证新建或重构的 Skill"
